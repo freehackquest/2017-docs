@@ -35,3 +35,12 @@
 #toTop:active, #toTop:focus {
 	outline:none;
 }
+
+@media (max-width: 1100px)
+{
+	#toTop {
+	left:850px !important; 
+	width:85px;
+	height:85px;
+	}
+}
