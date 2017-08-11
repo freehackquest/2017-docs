@@ -210,7 +210,15 @@ body
   
 }
 
-
+#lightgallery
+{
+	list-style-type: none;
+}
+#lightgallery img
+{
+	border: 0px;
+	border-radius: 0px;
+}
 
 
 
@@ -292,4 +300,45 @@ body
 	width:100px;
 	height:100px;
 	z-index:1;
+}
+
+
+.myquote 
+{
+	width:30px;
+	height:30px;
+	background-size:cover;
+	border: none !important;
+	box-shadow: none !important;
+}
+
+@media (max-width: 1100px)
+{
+	body
+	{
+		width:960px;
+	}
+	
+	.menu li
+	{
+		font-size:13px;
+	}
+	.article-date
+	{
+		font-size: 95% !important;
+	}
+	
+	.center-container
+	{
+		margin-left:20px !important;
+	}
+	.social-footer-icons
+	{
+		padding-left: 10px;
+	}
+}
+
+@media (max-width: 850px)
+{
+	
 }
