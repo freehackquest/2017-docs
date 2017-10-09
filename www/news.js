@@ -4,7 +4,11 @@ var config = {
 };
 
 var news = [
+
 	{
+		date: '09.10.2017',
+		text: '<a target="_blank" href="http://2017-tasks.freehackquest.com/?registration=">Регистрация открыта</a>',
+	},{
 		date: '11.08.2017',
 		text: 'Игра будет проходить с 9.10.2017 по 15.10.2017',
 	}
