@@ -6,6 +6,9 @@ var config = {
 var news = [
 
 	{
+		date: '15.10.2017',
+		text: 'Хорошие новости, <b>игра продлена до 19.10.2017 !<b> Решайте все, что двигается! И да, завезли немного хинтов',
+	},{
 		date: '09.10.2017',
 		text: '<a target="_blank" href="http://2017-tasks.freehackquest.com/?registration=">Регистрация открыта</a>',
 	},{
